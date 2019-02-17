@@ -10,7 +10,8 @@ namespace ProcessA
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("ProcessA is a demo program for C# inter process communication.");
+            Console.WriteLine("ProcessA program start.");
         }
     }
 }
